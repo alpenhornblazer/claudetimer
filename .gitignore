@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.widget.lock
+.widget_pos
+widget.log
+config.json
