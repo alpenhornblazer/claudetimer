@@ -1,4 +1,4 @@
-# Claude Usage Widget
+# Claude Session Usage Widget
 
 A lightweight Windows taskbar widget that displays your Claude session usage percentage and reset countdown timer.
 
